@@ -1,5 +1,7 @@
-## Hi there 👋
+## Gui's Workshop 
+  Currently coding away...
 
+  In the meantime, check out some of my past projects below vvv
 <!--
 **Gui-Oba/Gui-Oba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
