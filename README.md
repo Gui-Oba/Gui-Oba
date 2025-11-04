@@ -1,12 +1,14 @@
-## Gui's Workshop 
+## Gui's Workshop 🛠️
   *Currently coding away...*
 
-  In the meantime, check out some of my past projects below:
+  In the meantime, check out my projects below ⬇️
 
-  - 📈 For my work in Data Analysis and Machine Learning, see **FIAM-Final**
+  - 📈 For work in Data Analysis and Machine Learning, see **FIAM-Final**
   - 🖌️ For design work I did for my university club, explore **Hack4Impact-McGill-Website**
   - 🥇 For a **1st place** project at McGill AI Society's Hackathon, see **MAIS-2025**
   - 📚 For some school projects involving Java and OOP, check out **PantryPal** and **BlockGame**
+
+ ### 👨🏻‍💻 Personal Website: [guioba](https://guioba.vercel.app)
 <!--
 **Gui-Oba/Gui-Oba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
